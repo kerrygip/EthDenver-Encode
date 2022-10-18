@@ -1,0 +1,37 @@
+Homework 1
+Discuss in your teams what a decentralised version of a game like monopoly would be like, if there was no software on a central server.
+
+Consider
+What are the essential pieces of functionality ?
+Ledger/NFT - Deed to property that you own it 
+Peer to Peer Transactions (rent/P2P/selling properties/buying properties) 
+Decentralized Bank - but no bank because it's P2P (create tokens to transact) - tokens to be initilized for transactions
+Smart Contract - to buy property if no one owns 
+Random number(dice)
+
+- Physical ledger when buying properties - cards
+- Monopoly EVM 
+    - Create Tokens to be utilized as money - Monopoly ETH
+    - GRN - To advance in the game
+    - Buying properties from the EVM
+- P2P transactions -
+    - Loans 
+    - Mortgages 
+    - Paying rents 
+    - Sell properties
+
+
+
+How would people cheat ?
+Trust is a lot easier to break when there’s less people
+Physically intimidating or assaulting them and stealing ledgers 
+double spending because there's no verification on the ledger 
+flip the board, kill the game
+
+
+How could you prevent them from cheating ?
+Honor code/ personal integrity 
+Have enough people around to maintain integrity 
+
+This is just a general discussion, there is no need to write any code or do any detailed
+design.
